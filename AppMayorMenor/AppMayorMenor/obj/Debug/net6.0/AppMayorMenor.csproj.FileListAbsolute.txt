@@ -1,0 +1,14 @@
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\bin\Debug\net6.0\AppMayorMenor.exe
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\bin\Debug\net6.0\AppMayorMenor.deps.json
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\bin\Debug\net6.0\AppMayorMenor.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\bin\Debug\net6.0\AppMayorMenor.dll
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\bin\Debug\net6.0\ref\AppMayorMenor.dll
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\bin\Debug\net6.0\AppMayorMenor.pdb
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\obj\Debug\net6.0\AppMayorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\obj\Debug\net6.0\AppMayorMenor.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\obj\Debug\net6.0\AppMayorMenor.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\obj\Debug\net6.0\AppMayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\obj\Debug\net6.0\AppMayorMenor.dll
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\obj\Debug\net6.0\ref\AppMayorMenor.dll
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\obj\Debug\net6.0\AppMayorMenor.pdb
+C:\Users\LAB104BPC02\source\repos\AppMayorMenor\AppMayorMenor\obj\Debug\net6.0\AppMayorMenor.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\bin\Debug\net6.0\AppTresNotas.exe
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\bin\Debug\net6.0\AppTresNotas.deps.json
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\bin\Debug\net6.0\AppTresNotas.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\bin\Debug\net6.0\AppTresNotas.dll
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\bin\Debug\net6.0\ref\AppTresNotas.dll
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\bin\Debug\net6.0\AppTresNotas.pdb
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\obj\Debug\net6.0\AppTresNotas.csproj.AssemblyReference.cache
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\obj\Debug\net6.0\AppTresNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\obj\Debug\net6.0\AppTresNotas.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\obj\Debug\net6.0\AppTresNotas.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\obj\Debug\net6.0\AppTresNotas.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\obj\Debug\net6.0\AppTresNotas.dll
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\obj\Debug\net6.0\ref\AppTresNotas.dll
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\obj\Debug\net6.0\AppTresNotas.pdb
+C:\Users\LAB104BPC02\source\repos\AppTresNotas\AppTresNotas\obj\Debug\net6.0\AppTresNotas.genruntimeconfig.cache

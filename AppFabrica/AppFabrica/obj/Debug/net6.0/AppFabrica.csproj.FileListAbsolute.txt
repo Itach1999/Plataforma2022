@@ -1,0 +1,15 @@
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\bin\Debug\net6.0\AppFabrica.exe
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\bin\Debug\net6.0\AppFabrica.deps.json
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\bin\Debug\net6.0\AppFabrica.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\bin\Debug\net6.0\AppFabrica.dll
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\bin\Debug\net6.0\ref\AppFabrica.dll
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\bin\Debug\net6.0\AppFabrica.pdb
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\obj\Debug\net6.0\AppFabrica.csproj.AssemblyReference.cache
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\obj\Debug\net6.0\AppFabrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\obj\Debug\net6.0\AppFabrica.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\obj\Debug\net6.0\AppFabrica.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\obj\Debug\net6.0\AppFabrica.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\obj\Debug\net6.0\AppFabrica.dll
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\obj\Debug\net6.0\ref\AppFabrica.dll
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\obj\Debug\net6.0\AppFabrica.pdb
+C:\Users\LAB104BPC02\source\repos\AppFabrica\AppFabrica\obj\Debug\net6.0\AppFabrica.genruntimeconfig.cache

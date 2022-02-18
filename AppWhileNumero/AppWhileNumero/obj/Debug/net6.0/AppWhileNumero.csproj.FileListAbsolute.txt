@@ -1,0 +1,15 @@
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\bin\Debug\net6.0\AppWhileNumero.exe
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\bin\Debug\net6.0\AppWhileNumero.deps.json
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\bin\Debug\net6.0\AppWhileNumero.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\bin\Debug\net6.0\AppWhileNumero.dll
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\bin\Debug\net6.0\ref\AppWhileNumero.dll
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\bin\Debug\net6.0\AppWhileNumero.pdb
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\obj\Debug\net6.0\AppWhileNumero.csproj.AssemblyReference.cache
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\obj\Debug\net6.0\AppWhileNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\obj\Debug\net6.0\AppWhileNumero.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\obj\Debug\net6.0\AppWhileNumero.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\obj\Debug\net6.0\AppWhileNumero.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\obj\Debug\net6.0\AppWhileNumero.dll
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\obj\Debug\net6.0\ref\AppWhileNumero.dll
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\obj\Debug\net6.0\AppWhileNumero.pdb
+C:\Users\LAB104BPC02\source\repos\AppWhileNumero\AppWhileNumero\obj\Debug\net6.0\AppWhileNumero.genruntimeconfig.cache

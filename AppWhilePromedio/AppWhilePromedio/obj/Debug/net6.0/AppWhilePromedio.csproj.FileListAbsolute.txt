@@ -1,0 +1,14 @@
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\bin\Debug\net6.0\AppWhilePromedio.exe
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\bin\Debug\net6.0\AppWhilePromedio.deps.json
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\bin\Debug\net6.0\AppWhilePromedio.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\bin\Debug\net6.0\AppWhilePromedio.dll
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\bin\Debug\net6.0\ref\AppWhilePromedio.dll
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\bin\Debug\net6.0\AppWhilePromedio.pdb
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\obj\Debug\net6.0\AppWhilePromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\obj\Debug\net6.0\AppWhilePromedio.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\obj\Debug\net6.0\AppWhilePromedio.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\obj\Debug\net6.0\AppWhilePromedio.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\obj\Debug\net6.0\AppWhilePromedio.dll
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\obj\Debug\net6.0\ref\AppWhilePromedio.dll
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\obj\Debug\net6.0\AppWhilePromedio.pdb
+C:\Users\LAB104BPC02\source\repos\AppWhilePromedio\AppWhilePromedio\obj\Debug\net6.0\AppWhilePromedio.genruntimeconfig.cache

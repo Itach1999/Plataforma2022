@@ -1,0 +1,15 @@
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\bin\Debug\net6.0\AppOperadores.exe
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\bin\Debug\net6.0\AppOperadores.deps.json
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\bin\Debug\net6.0\AppOperadores.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\bin\Debug\net6.0\AppOperadores.dll
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\bin\Debug\net6.0\ref\AppOperadores.dll
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\bin\Debug\net6.0\AppOperadores.pdb
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\obj\Debug\net6.0\AppOperadores.csproj.AssemblyReference.cache
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\obj\Debug\net6.0\AppOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\obj\Debug\net6.0\AppOperadores.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\obj\Debug\net6.0\AppOperadores.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\obj\Debug\net6.0\AppOperadores.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\obj\Debug\net6.0\AppOperadores.dll
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\obj\Debug\net6.0\ref\AppOperadores.dll
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\obj\Debug\net6.0\AppOperadores.pdb
+C:\Users\LAB104BPC02\source\repos\AppOperadores\AppOperadores\obj\Debug\net6.0\AppOperadores.genruntimeconfig.cache

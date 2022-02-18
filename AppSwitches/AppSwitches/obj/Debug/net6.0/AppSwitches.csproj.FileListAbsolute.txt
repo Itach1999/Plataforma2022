@@ -1,0 +1,15 @@
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\bin\Debug\net6.0\AppSwitches.exe
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\bin\Debug\net6.0\AppSwitches.deps.json
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\bin\Debug\net6.0\AppSwitches.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\bin\Debug\net6.0\AppSwitches.dll
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\bin\Debug\net6.0\ref\AppSwitches.dll
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\bin\Debug\net6.0\AppSwitches.pdb
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\obj\Debug\net6.0\AppSwitches.csproj.AssemblyReference.cache
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\obj\Debug\net6.0\AppSwitches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\obj\Debug\net6.0\AppSwitches.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\obj\Debug\net6.0\AppSwitches.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\obj\Debug\net6.0\AppSwitches.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\obj\Debug\net6.0\AppSwitches.dll
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\obj\Debug\net6.0\ref\AppSwitches.dll
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\obj\Debug\net6.0\AppSwitches.pdb
+C:\Users\LAB104BPC02\source\repos\AppSwitches\AppSwitches\obj\Debug\net6.0\AppSwitches.genruntimeconfig.cache

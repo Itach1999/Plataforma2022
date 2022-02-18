@@ -1,0 +1,15 @@
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\bin\Debug\net6.0\AppCondicionales.exe
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\bin\Debug\net6.0\AppCondicionales.deps.json
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\bin\Debug\net6.0\AppCondicionales.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\bin\Debug\net6.0\AppCondicionales.dll
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\bin\Debug\net6.0\ref\AppCondicionales.dll
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\bin\Debug\net6.0\AppCondicionales.pdb
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\obj\Debug\net6.0\AppCondicionales.csproj.AssemblyReference.cache
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\obj\Debug\net6.0\AppCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\obj\Debug\net6.0\AppCondicionales.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\obj\Debug\net6.0\AppCondicionales.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\obj\Debug\net6.0\AppCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\obj\Debug\net6.0\AppCondicionales.dll
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\obj\Debug\net6.0\ref\AppCondicionales.dll
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\obj\Debug\net6.0\AppCondicionales.pdb
+C:\Users\LAB104BPC02\source\repos\AppCondicionales\AppCondicionales\obj\Debug\net6.0\AppCondicionales.genruntimeconfig.cache
