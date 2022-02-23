@@ -1,0 +1,14 @@
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\bin\Debug\net6.0\AppSentenciaFOR2.exe
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\bin\Debug\net6.0\AppSentenciaFOR2.deps.json
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\bin\Debug\net6.0\AppSentenciaFOR2.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\bin\Debug\net6.0\AppSentenciaFOR2.dll
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\bin\Debug\net6.0\ref\AppSentenciaFOR2.dll
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\bin\Debug\net6.0\AppSentenciaFOR2.pdb
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\obj\Debug\net6.0\AppSentenciaFOR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\obj\Debug\net6.0\AppSentenciaFOR2.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\obj\Debug\net6.0\AppSentenciaFOR2.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\obj\Debug\net6.0\AppSentenciaFOR2.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\obj\Debug\net6.0\AppSentenciaFOR2.dll
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\obj\Debug\net6.0\ref\AppSentenciaFOR2.dll
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\obj\Debug\net6.0\AppSentenciaFOR2.pdb
+C:\Users\LAB104BPC02\source\repos\AppSentenciaFOR2\AppSentenciaFOR2\obj\Debug\net6.0\AppSentenciaFOR2.genruntimeconfig.cache

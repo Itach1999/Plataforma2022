@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSentenciaFOR2", "AppSentenciaFOR2\AppSentenciaFOR2.csproj", "{406C1E8A-7734-4E9C-966D-C6E086CA9543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406C1E8A-7734-4E9C-966D-C6E086CA9543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406C1E8A-7734-4E9C-966D-C6E086CA9543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406C1E8A-7734-4E9C-966D-C6E086CA9543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406C1E8A-7734-4E9C-966D-C6E086CA9543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89629614-A508-452E-92F6-6078D66928BA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\bin\Debug\net6.0\AppSentencial.exe
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\bin\Debug\net6.0\AppSentencial.deps.json
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\bin\Debug\net6.0\AppSentencial.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\bin\Debug\net6.0\AppSentencial.dll
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\bin\Debug\net6.0\ref\AppSentencial.dll
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\bin\Debug\net6.0\AppSentencial.pdb
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\obj\Debug\net6.0\AppSentencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\obj\Debug\net6.0\AppSentencial.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\obj\Debug\net6.0\AppSentencial.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\obj\Debug\net6.0\AppSentencial.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\obj\Debug\net6.0\AppSentencial.dll
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\obj\Debug\net6.0\ref\AppSentencial.dll
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\obj\Debug\net6.0\AppSentencial.pdb
+C:\Users\LAB104BPC02\source\repos\AppSentencial\AppSentencial\obj\Debug\net6.0\AppSentencial.genruntimeconfig.cache

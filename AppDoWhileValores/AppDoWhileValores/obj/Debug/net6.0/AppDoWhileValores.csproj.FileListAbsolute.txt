@@ -1,0 +1,15 @@
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\bin\Debug\net6.0\AppDoWhileValores.exe
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\bin\Debug\net6.0\AppDoWhileValores.deps.json
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\bin\Debug\net6.0\AppDoWhileValores.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\bin\Debug\net6.0\AppDoWhileValores.dll
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\bin\Debug\net6.0\ref\AppDoWhileValores.dll
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\bin\Debug\net6.0\AppDoWhileValores.pdb
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\obj\Debug\net6.0\AppDoWhileValores.csproj.AssemblyReference.cache
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\obj\Debug\net6.0\AppDoWhileValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\obj\Debug\net6.0\AppDoWhileValores.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\obj\Debug\net6.0\AppDoWhileValores.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\obj\Debug\net6.0\AppDoWhileValores.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\obj\Debug\net6.0\AppDoWhileValores.dll
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\obj\Debug\net6.0\ref\AppDoWhileValores.dll
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\obj\Debug\net6.0\AppDoWhileValores.pdb
+C:\Users\LAB104BPC02\source\repos\AppDoWhileValores\AppDoWhileValores\obj\Debug\net6.0\AppDoWhileValores.genruntimeconfig.cache

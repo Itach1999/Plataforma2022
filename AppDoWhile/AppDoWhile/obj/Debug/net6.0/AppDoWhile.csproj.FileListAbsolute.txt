@@ -1,0 +1,15 @@
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\bin\Debug\net6.0\AppDoWhile.exe
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\bin\Debug\net6.0\AppDoWhile.deps.json
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\bin\Debug\net6.0\AppDoWhile.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\bin\Debug\net6.0\AppDoWhile.dll
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\bin\Debug\net6.0\ref\AppDoWhile.dll
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\bin\Debug\net6.0\AppDoWhile.pdb
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\obj\Debug\net6.0\AppDoWhile.csproj.AssemblyReference.cache
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\obj\Debug\net6.0\AppDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\obj\Debug\net6.0\AppDoWhile.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\obj\Debug\net6.0\AppDoWhile.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\obj\Debug\net6.0\AppDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\obj\Debug\net6.0\AppDoWhile.dll
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\obj\Debug\net6.0\ref\AppDoWhile.dll
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\obj\Debug\net6.0\AppDoWhile.pdb
+C:\Users\LAB104BPC02\source\repos\AppDoWhile\AppDoWhile\obj\Debug\net6.0\AppDoWhile.genruntimeconfig.cache

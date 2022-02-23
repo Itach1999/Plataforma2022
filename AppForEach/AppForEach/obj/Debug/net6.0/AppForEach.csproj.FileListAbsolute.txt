@@ -1,0 +1,14 @@
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\bin\Debug\net6.0\AppForEach.exe
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\bin\Debug\net6.0\AppForEach.deps.json
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\bin\Debug\net6.0\AppForEach.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\bin\Debug\net6.0\AppForEach.dll
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\bin\Debug\net6.0\ref\AppForEach.dll
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\bin\Debug\net6.0\AppForEach.pdb
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\obj\Debug\net6.0\AppForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\obj\Debug\net6.0\AppForEach.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\obj\Debug\net6.0\AppForEach.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\obj\Debug\net6.0\AppForEach.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\obj\Debug\net6.0\AppForEach.dll
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\obj\Debug\net6.0\ref\AppForEach.dll
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\obj\Debug\net6.0\AppForEach.pdb
+C:\Users\LAB104BPC02\source\repos\AppForEach\AppForEach\obj\Debug\net6.0\AppForEach.genruntimeconfig.cache

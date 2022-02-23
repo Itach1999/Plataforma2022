@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "263ef837-6b7c-48c8-b383-bba4503e4af9": {
+      "ProjectGuid": "263ef837-6b7c-48c8-b383-bba4503e4af9",
+      "DisplayName": "AppForEachNotas",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

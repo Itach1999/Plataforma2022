@@ -1,0 +1,15 @@
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\bin\Debug\net6.0\AppForEachNotas.exe
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\bin\Debug\net6.0\AppForEachNotas.deps.json
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\bin\Debug\net6.0\AppForEachNotas.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\bin\Debug\net6.0\AppForEachNotas.dll
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\bin\Debug\net6.0\ref\AppForEachNotas.dll
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\bin\Debug\net6.0\AppForEachNotas.pdb
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\obj\Debug\net6.0\AppForEachNotas.csproj.AssemblyReference.cache
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\obj\Debug\net6.0\AppForEachNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\obj\Debug\net6.0\AppForEachNotas.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\obj\Debug\net6.0\AppForEachNotas.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\obj\Debug\net6.0\AppForEachNotas.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\obj\Debug\net6.0\AppForEachNotas.dll
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\obj\Debug\net6.0\ref\AppForEachNotas.dll
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\obj\Debug\net6.0\AppForEachNotas.pdb
+C:\Users\LAB104BPC02\source\repos\AppForEachNotas\AppForEachNotas\obj\Debug\net6.0\AppForEachNotas.genruntimeconfig.cache

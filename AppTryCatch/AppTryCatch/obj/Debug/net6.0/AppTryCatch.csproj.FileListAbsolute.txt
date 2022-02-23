@@ -1,0 +1,15 @@
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\bin\Debug\net6.0\AppTryCatch.exe
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\bin\Debug\net6.0\AppTryCatch.deps.json
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\bin\Debug\net6.0\AppTryCatch.runtimeconfig.json
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\bin\Debug\net6.0\AppTryCatch.dll
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\bin\Debug\net6.0\ref\AppTryCatch.dll
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\bin\Debug\net6.0\AppTryCatch.pdb
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\obj\Debug\net6.0\AppTryCatch.csproj.AssemblyReference.cache
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\obj\Debug\net6.0\AppTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\obj\Debug\net6.0\AppTryCatch.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\obj\Debug\net6.0\AppTryCatch.AssemblyInfo.cs
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\obj\Debug\net6.0\AppTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\obj\Debug\net6.0\AppTryCatch.dll
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\obj\Debug\net6.0\ref\AppTryCatch.dll
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\obj\Debug\net6.0\AppTryCatch.pdb
+C:\Users\LAB104BPC02\source\repos\AppTryCatch\AppTryCatch\obj\Debug\net6.0\AppTryCatch.genruntimeconfig.cache
